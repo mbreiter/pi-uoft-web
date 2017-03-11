@@ -1,4 +1,4 @@
-# Project Include: u of t web dev workshop
+# project include: u of t web dev workshop
 
 <img src="http://bit.ly/29XrNQE" align="right" />
 
