@@ -64,3 +64,4 @@ Note: you'll be prompted to enter a message for this pull request. If you're pro
 - Matthew Reiter: mail@matthewreiter.me
 - Will Ginsberg: will.j.ginsberg@gmail.com
 - Dexter Rivera: dexter.rivera@mail.utoronto.ca
+- Umar Ahmed: umar.ahmed@mail.utoronto.ca
