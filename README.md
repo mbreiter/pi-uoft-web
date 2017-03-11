@@ -16,7 +16,7 @@ In this bootcamp, we hope to introduce you to web development through html, css 
     16:00 - 16:30 : Leftover pizza and socializing!
 
 ## Course Materials
-- [Introductory slides] (https://slides.com/mreiter/deck/live#/1)
+- [Introductory slides] (https://slides.com/mreiter/deck-1/live)
 - [Feedback forms] (https://docs.google.com/forms/d/1Qyg_MFL-Q81gDVC2DGyp6U_VAjysNAFVNi3EhSSh1kA/viewform?edit_requested=true)
 
 ## Getting started
