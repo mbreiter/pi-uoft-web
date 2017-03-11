@@ -45,9 +45,11 @@ Open your console and navigate to the path that contains your github repository.
 ### Pull
 Whenever you want to receive an up-to-date copy of the repository, use git pull:
 
-Open your console and navigate to the path that contains your github repository. While in this repository, type each of the following command:
+Open your console and navigate to the path that contains your github repository. Type the following command:
 
 	git pull
+
+Note: you'll be prompted to enter a message for this pull request. If you're prompted in VIM, you can type out your message and then press ":w" to save and then ":q" to exit.
 
 ## Links & Resources
 - Click [here] (https://atom.io/) to download Atom
