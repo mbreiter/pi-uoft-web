@@ -59,3 +59,4 @@ Open your console and navigate to the path that contains your github repository.
 
 ## Contact Information
 - Matthew Reiter: mail@matthewreiter.me
+- Will Ginsberg: will.j.ginsberg@gmail.com
