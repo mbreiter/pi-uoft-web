@@ -1,5 +1,3 @@
-# pi-uoft-web
-
 # Project Include: u of t web dev workshop
 
 <img src="http://bit.ly/29XrNQE" align="right" />
