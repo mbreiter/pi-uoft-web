@@ -18,6 +18,7 @@ In this bootcamp, we hope to introduce you to web development through html, css 
 ## Course Materials
 - [Introductory slides] (https://slides.com/mreiter/deck-1/live)
 - [Feedback forms] (https://docs.google.com/forms/d/1Qyg_MFL-Q81gDVC2DGyp6U_VAjysNAFVNi3EhSSh1kA/viewform?edit_requested=true)
+- [Twitch Live Stream] (https://www.twitch.tv/umarahmed322)
 
 ## Getting started
 - Make sure you have an account on Github.
